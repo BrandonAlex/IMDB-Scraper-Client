@@ -17,4 +17,4 @@ Get Writers
 Get Actors
 Get Language 
 Get Awards
-Save Recent Searches and Click Event to review them.
+Save Recent Searches and Click Event to review them!
