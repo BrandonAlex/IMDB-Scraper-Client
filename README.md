@@ -6,15 +6,15 @@ Uses the OMDB API which allows the client to parse their website for information
 
 Features
 
--Get IMDB ID
--Get IMDB Rating
--Get Title
--Get Year
--Get Runtime
--Get Genre
--Get Directors
--Get Writers
--Get Actors
--Get Language 
--Get Awards
--Save Recent Searches and Click Event to review them.
+Get IMDB ID
+Get IMDB Rating
+Get Title
+Get Year
+Get Runtime
+Get Genre
+Get Directors
+Get Writers
+Get Actors
+Get Language 
+Get Awards
+Save Recent Searches and Click Event to review them.
