@@ -1,0 +1,10 @@
+C:\Users\brand\source\repos\IMDB Scraper Client\IMDB Scraper Client\bin\Debug\IMDB Scraper Client.exe.config
+C:\Users\brand\source\repos\IMDB Scraper Client\IMDB Scraper Client\bin\Debug\IMDB Scraper Client.exe
+C:\Users\brand\source\repos\IMDB Scraper Client\IMDB Scraper Client\bin\Debug\IMDB Scraper Client.pdb
+C:\Users\brand\source\repos\IMDB Scraper Client\IMDB Scraper Client\obj\Debug\IMDB Scraper Client.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\IMDB Scraper Client\IMDB Scraper Client\obj\Debug\IMDB_Scraper_Client.Form1.resources
+C:\Users\brand\source\repos\IMDB Scraper Client\IMDB Scraper Client\obj\Debug\IMDB_Scraper_Client.Properties.Resources.resources
+C:\Users\brand\source\repos\IMDB Scraper Client\IMDB Scraper Client\obj\Debug\IMDB Scraper Client.csproj.GenerateResource.cache
+C:\Users\brand\source\repos\IMDB Scraper Client\IMDB Scraper Client\obj\Debug\IMDB Scraper Client.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\IMDB Scraper Client\IMDB Scraper Client\obj\Debug\IMDB Scraper Client.exe
+C:\Users\brand\source\repos\IMDB Scraper Client\IMDB Scraper Client\obj\Debug\IMDB Scraper Client.pdb
